@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 00ad640b-cf23-31db-9b1c-8ba3bf367ec0
 resourcetype: Document
 title: lianxi-3
 uid: 33e4128e-ddf8-1fd8-675c-c42c2e31d3ad
