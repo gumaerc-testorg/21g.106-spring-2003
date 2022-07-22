@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: ada1fd95-48af-8d76-e95e-c7f700ae2981
 title: Forum 4
 uid: a2adb06c-3f28-deb1-c026-6419217a2002

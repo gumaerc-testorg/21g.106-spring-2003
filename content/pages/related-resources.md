@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains links to resources on the internet relevant to
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: b5faff2b-82bd-c3de-f634-e673d4d2dd86
 ---

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Section in Chinese and English.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 00ad640b-cf23-31db-9b1c-8ba3bf367ec0
 ---
@@ -67,7 +71,7 @@ YOUNGINT Video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/YOUNGI
 文革练习-1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_106s03_lianxi1))
+({{% resource_link 8615151b-6309-ee4d-3530-59bf8a47e3a1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ YOUNGINT Video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/YOUNGI
 四月七号（星期一）功课
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_106s03_1))
+({{% resource_link 0001ff89-217c-8198-5de7-b4aee7d1d531 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ WHYSTUDE Video ([MP4 - 2MB](http://www.archive.org/download/MIT21F.106S03/WHYSTU
 文革练习-2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_106s03_lianxi2))
+({{% resource_link e734073e-5404-f29f-a146-37d3bf795427 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +156,7 @@ YOUNGIN1 Video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/YOUNGI
 文革练习-3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_106s03_lianxi3))
+({{% resource_link 33e4128e-ddf8-1fd8-675c-c42c2e31d3ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +165,7 @@ YOUNGIN1 Video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/YOUNGI
 四月十八号（星期五）功课
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF)]({{< baseurl >}}/resources/mit21g_106s03_419html)
+({{% resource_link 66d97541-80dc-230a-1084-e3d52623e7e2 "PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +210,7 @@ Political movement in 1903 video ([MP4 - 4MB](http://www.archive.org/download/MI
 四月二十八号（星期一）功课
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_106s03_427html))
+({{% resource_link 71e22687-d305-b292-b069-516dd84a4bb4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +219,7 @@ Political movement in 1903 video ([MP4 - 4MB](http://www.archive.org/download/MI
 四月三十号（星期三）功课
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21g_106s03_55html))
+({{% resource_link a2a87efb-db0d-ffb9-b0ec-c3c669734747 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
