@@ -5,6 +5,7 @@ file: /courses/21g-106-chinese-vi-regular-discovering-chinese-cultures-and-socie
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lianxi-1
 uid: 8615151b-6309-ee4d-3530-59bf8a47e3a1
 ---
 This resource contains information regarding lianxi-1.
-
