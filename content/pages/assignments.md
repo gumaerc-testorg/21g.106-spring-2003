@@ -35,7 +35,7 @@ TOPICS
 文化大革命开始的原因
 {{< tdclose >}}
 {{< tdopen >}}
-REASONSC Video ([MP4 - 7MB](http://www.archive.org/download/MIT21F.106S03/REASONSC-220k.mp4))
+REASONSC Video ({{% resource_link "72c596ff-d13b-4aed-a59e-f6fa95792905" "MP4 - 7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +44,7 @@ REASONSC Video ([MP4 - 7MB](http://www.archive.org/download/MIT21F.106S03/REASON
 文化大革命时学校的情况
 {{< tdclose >}}
 {{< tdopen >}}
-SCHOOLSI Video ([MP4 - 6MB](http://www.archive.org/download/MIT21F.106S03/SCHOOLSI-220k.mp4))
+SCHOOLSI Video ({{% resource_link "0109de16-2b76-4269-8121-9b596268f31f" "MP4 - 6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +53,7 @@ SCHOOLSI Video ([MP4 - 6MB](http://www.archive.org/download/MIT21F.106S03/SCHOOL
 什么是老三届
 {{< tdclose >}}
 {{< tdopen >}}
-THETHREE Video ([MP4](http://www.archive.org/download/MIT21F.106S03/THETHREE-220k.mp4))
+THETHREE Video ({{% resource_link "6d952038-533b-4251-9ea0-9be3a35dda9b" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +62,7 @@ THETHREE Video ([MP4](http://www.archive.org/download/MIT21F.106S03/THETHREE-220
 知识青年上山下乡-1
 {{< tdclose >}}
 {{< tdopen >}}
-YOUNGINT Video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/YOUNGINT-220k.mp4))
+YOUNGINT Video ({{% resource_link "49416e7c-e229-4e41-9137-ba6e6bbee176" "MP4 - 4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +89,7 @@ YOUNGINT Video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/YOUNGI
 红卫兵-1
 {{< tdclose >}}
 {{< tdopen >}}
-REDGUARD Video ([MP4 - 3MB](http://www.archive.org/download/MIT21F.106S03/REDGUARD-220k.mp4))
+REDGUARD Video ({{% resource_link "18a94f65-428f-435f-88d7-afabf6339306" "MP4 - 3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ REDGUARD Video ([MP4 - 3MB](http://www.archive.org/download/MIT21F.106S03/REDGUA
 文化大革命时学校的情况-2
 {{< tdclose >}}
 {{< tdopen >}}
-THESCHOO Video ([MP4 - 3MB](http://www.archive.org/download/MIT21F.106S03/THESCHOO-220k.mp4))
+THESCHOO Video ({{% resource_link "90807370-1502-4535-aab7-e8af325fb7a4" "MP4 - 3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +107,7 @@ THESCHOO Video ([MP4 - 3MB](http://www.archive.org/download/MIT21F.106S03/THESCH
 知青上山下乡-2
 {{< tdclose >}}
 {{< tdopen >}}
-WHYSTUDE Video ([MP4 - 2MB](http://www.archive.org/download/MIT21F.106S03/WHYSTUDE-220k.mp4))
+WHYSTUDE Video ({{% resource_link "b886ee28-2694-4122-9227-19da281fe6e6" "MP4 - 2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +129,7 @@ WHYSTUDE Video ([MP4 - 2MB](http://www.archive.org/download/MIT21F.106S03/WHYSTU
 
 {{< tdclose >}}
 {{< tdopen >}}
-VALUEOFC Video ([MP4 - 5MB](http://www.archive.org/download/MIT21F.106S03/VALUEOFC-220k.mp4))
+VALUEOFC Video ({{% resource_link "5639b379-ab79-4b20-89bf-7562298de782" "MP4 - 5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +138,7 @@ VALUEOFC Video ([MP4 - 5MB](http://www.archive.org/download/MIT21F.106S03/VALUEO
 知识青年的价值-2
 {{< tdclose >}}
 {{< tdopen >}}
-VALUEOFY Video ([MP4](http://www.archive.org/download/MIT21F.106S03/VALUEOFY-220k.mp4))
+VALUEOFY Video ({{% resource_link "b62399d3-ea39-443f-8a1f-33e4e4efbc1c" "MP4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +147,7 @@ VALUEOFY Video ([MP4](http://www.archive.org/download/MIT21F.106S03/VALUEOFY-220
 知识青年在农村的生活
 {{< tdclose >}}
 {{< tdopen >}}
-YOUNGIN1 Video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/YOUNGIN1-220k.mp4))
+YOUNGIN1 Video ({{% resource_link "fa3a7772-f73c-4b53-8528-d65ee6ff6d93" "MP4 - 4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +174,7 @@ YOUNGIN1 Video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/YOUNGI
 1950-1960 经历
 {{< tdclose >}}
 {{< tdopen >}}
-Experience from 1950-1960 video ([MP4 - 3MB](http://www.archive.org/download/MIT21F.106S03/Experience_from_1950-19601-80k.mp4))
+Experience from 1950-1960 video ({{% resource_link "59f523bb-95bb-41c1-a335-cb45b925e313" "MP4 - 3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +183,7 @@ Experience from 1950-1960 video ([MP4 - 3MB](http://www.archive.org/download/MIT
 人民公社
 {{< tdclose >}}
 {{< tdopen >}}
-People's commune video ([MP4 - 3MB](http://www.archive.org/download/MIT21F.106S03/Peoples_commune01-80k.mp4))
+People's commune video ({{% resource_link "543d5574-c4e0-4ff5-9f0e-641453e0c49b" "MP4 - 3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +192,7 @@ People's commune video ([MP4 - 3MB](http://www.archive.org/download/MIT21F.106S0
 政治运动-1
 {{< tdclose >}}
 {{< tdopen >}}
-Political movement in 1902 video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/Political_movement_in_1902-80k.mp4))
+Political movement in 1902 video ({{% resource_link "94208d12-d6ca-4c24-930d-2278f911b0bd" "MP4 - 4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +201,7 @@ Political movement in 1902 video ([MP4 - 4MB](http://www.archive.org/download/MI
 政治运动-2
 {{< tdclose >}}
 {{< tdopen >}}
-Political movement in 1903 video ([MP4 - 4MB](http://www.archive.org/download/MIT21F.106S03/Political_movement_in_1903-80k.mp4))
+Political movement in 1903 video ({{% resource_link "139d10d0-b914-4e2f-b713-4fa0af71344c" "MP4 - 4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
