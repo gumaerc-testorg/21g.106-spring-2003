@@ -8,12 +8,12 @@ title: Related Resources
 uid: b5faff2b-82bd-c3de-f634-e673d4d2dd86
 ---
 
-{{% resource_link "06aba498-1f73-4ad1-9159-700388e6c92e" "Sites of Special Interests" %}}
+[Sites of Special Interests](https://web.archive.org/web/20130627012043/http://mailer.fsu.edu/~flan/chinese/documents/chinese_sites.htm)
 
-{{% resource_link "c0a6511e-148e-4a0b-9197-89b1b3a74132" "Chinese Newspapers" %}}
+[Chinese Newspapers](http://www.w3newspapers.com/chinese/)
 
-{{% resource_link "354fd6cc-7789-4eec-9124-3bae6c92a5e6" "Chinese Software" %}}
+[Chinese Software](https://www.linguistsoftware.com/cjkpartner.htm)
 
-{{% resource_link "d9f41c39-dde4-4e05-a7b8-11d790e00810" "Chinese Software" %}}
+[Chinese Software](http://www.njstar.com/)
 
-{{% resource_link "deec57e9-7476-4972-9f62-31c88900d3cc" "Chinese Online Libraries" %}}
+[Chinese Online Libraries](http://www.library.ucla.edu/eastasian/chinese-studies/chinese-e-resources)
